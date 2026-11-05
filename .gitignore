@@ -26,3 +26,4 @@ Thumbs.db
 # Unity crash and cache files
 sysinfo.txt
 *.tmp*.log
+*.log
