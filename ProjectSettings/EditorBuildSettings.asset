@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 710020a6033621443878682e220efdb1
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: c57bae44fcc7b774c8e40957762870da
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 62aa1ca2a706a99419d84243da3e386b
+  - enabled: 1
+    path: Assets/Scenes/Level1_CaveEntrance.unity
+    guid: af9d6c4197369664cae5bda013b4b981
+  - enabled: 1
+    path: Assets/Scenes/Level2_CrystalTunnels.unity
+    guid: eaf1376aaf08b534d880afdae8623511
+  - enabled: 1
+    path: Assets/Scenes/Level3_TreasureChamber.unity
+    guid: e828b34ee8530d145965cfe4c03bbb7c
+  - enabled: 1
+    path: Assets/Scenes/GameComplete.unity
+    guid: db7415be661dc53429c2fc8cec96554b
+  m_configObjects: {}

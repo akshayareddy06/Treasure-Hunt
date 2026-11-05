@@ -1,0 +1,1 @@
+" \\C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Unity.exe\\\ -batchmode -quit -projectPath \\\D:\Treasurehunt\\\ -executeMethod TreasureHunt.Editor.GameBuilder.BuildAllScenes -logFile \\\D:\Treasurehunt\build_all_scenes.log\\\
